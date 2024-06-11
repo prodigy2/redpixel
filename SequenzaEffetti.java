@@ -33,8 +33,8 @@ public class SequenzaEffetti {
     }
 
     private static class Effetto {
-        private String nome;
-        private String[] effetti;
+        private final String nome;
+        private final String[] effetti;
 
         public Effetto(String nome, String[] effetti) {
             this.nome = nome;
