@@ -3,7 +3,7 @@ import java.util.List;
 
 public class SequenzaEffetti {
 
-    //OK
+    //OK OK
     private static final List<Effetto> generiMusicali = new ArrayList<>();
 
     static {
